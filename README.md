@@ -1,4 +1,4 @@
-# Digimon Card Downlader 1.0
+# Digimon Card Downloader 1.0
  Mass download Digimon TCg card arts using python and Digiprintmon as a source, downloaded images are named according to their card identifier. You can choose the folder you want to download cards in and keep it update with a download missing card features (obviously requires internet connection)
 # Legal Disclaimer Regarding the Downloaded Images
 
