@@ -16,7 +16,7 @@ To compile the DigimonCardDownloader.py file manually, you'll need to have Pytho
 
 Install Python: If you don't already have Python installed, download and install the latest version from the official website (https://www.python.org/downloads/).
 
-Install Required Libraries: Open a command prompt or terminal and navigate to the directory containing DigimonCardDownloader.py. Use the following command to install any required libraries: pip install -r requirements.txt.
+Install Required Libraries: Open a command prompt or terminal and navigate to the directory containing DigimonCardDownloader.py. Use the following command to install any required libraries: pip install requests.
 
 Run the Script: To run the script, use the command python DigimonCardDownloader.py. This method allows you to execute the code directly from the Python interpreter.
 
