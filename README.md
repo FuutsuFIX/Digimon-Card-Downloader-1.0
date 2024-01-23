@@ -1,5 +1,9 @@
 # Digimon Card Downloader 1.0
  Mass download Digimon TCg card arts using python and Digiprintmon as a source, downloaded images are named according to their card identifier. You can choose the folder you want to download cards in and keep it update with a download missing card features (obviously requires internet connection)
+
+# How to use
+Select the folder path. Then just click if you want to download all the images (this is going to overwrite any images already downloaded before. good way to remove samples from the card images when the set is fully released) or download missing images (the software is going to check the cards that are already in the folder, then download missing cards. Useful to be up to date with the latest releases without waiting a full download time)
+
 # Legal Disclaimer Regarding the Downloaded Images
 
 Please be aware that the images downloaded using this software are copyrighted material and are the exclusive property of the Digimon Card Game, Bandai, and Toei. The use of these images is strictly for personal, non-commercial purposes only. Any reproduction, distribution, transmission, modification, or use of these images for commercial purposes, including but not limited to the sale, resale, or distribution of the images in any format, is strictly prohibited and may infringe upon the copyrights held by the respective owners.
